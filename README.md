@@ -46,7 +46,13 @@ O conjunto de dados faz parte da competição do curso **Dominando Data Science*
 
 ## Objetivo
 
-A meta final deste projeto é, com base nos dados coletados, predizer se a campanha de marketing será bem-sucedida ou não na captação de clientes que investirão em um "term deposit". Dessa forma, será possível direcionar futuras campanhas, consequemente reduzindo seus custos.
+A meta final deste projeto é, com base nos dados coletados, predizer se a campanha de marketing será bem-sucedida ou não na captação de clientes que investirão em um "term deposit". Dessa forma, será possível direcionar futuras campanhas, consequemente reduzindo seus custos. Serão seguidas as etapas descritas abaixo:
+
+1. Obtenção dos dados
+2. Análise Exploratória e Visualização dos dados
+3. Pré-processamento
+4. Modelos de Machine Learning
+5. Avaliação do modelo
 
 **Referências**
 

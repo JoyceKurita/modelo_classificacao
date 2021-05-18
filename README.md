@@ -24,7 +24,7 @@ A grosso modo, podemos definir o negócio de uma instituição financeira como "
 
 **Descrição do conjunto de dados**
 
-O conjunto de dados refere-se à campanha de marketing de uma instituição financeira, e apresenta as variáveis listadas a seguir:
+O conjunto de dados faz parte da competição do curso **Dominando Data Science** da Flai e refere-se à campanha de marketing de uma instituição financeira, e apresenta as variáveis listadas a seguir:
 
 
 *   **age:** idade do cliente;

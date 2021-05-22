@@ -57,5 +57,4 @@ A meta final deste projeto é, com base nos dados coletados, predizer se a campa
 **Referências**
 
 ###### https://rockcontent.com/br/blog/o-que-e-marketing/
-###### https://rstudio-pubs-static.s3.amazonaws.com/391990_af26431d56a041c9aee2214a8bfe1812.html
 ###### https://www.investidor.gov.br/menu/Menu_Investidor/Old/Valores_Mobiliarios/CDB_RDB.html#:~:text=O%20CDB%20e%20o%20RDB,pactuada%20no%20momento%20da%20transa%C3%A7%C3%A3o.
